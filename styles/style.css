@@ -277,7 +277,7 @@
   z-index: 1;
 }
 
-.table__theme_dark {
+.table_theme_dark {
   margin-bottom: 90px;
 }
 
@@ -326,7 +326,7 @@
   height: 100%;
 }
 
-.logo__place_footer {
+.logo_place_footer {
   background-image: url("../images/logo_place_footer.svg");
 }
 
